@@ -1,0 +1,9 @@
+﻿string again = "a";
+
+while(again.ToLower() == "a")
+{
+
+    Console.WriteLine();
+    Console.Write("Pro opakování programu stiskněte klávesu 'a': ");
+    again = Console.ReadLine() ?? "";
+}
