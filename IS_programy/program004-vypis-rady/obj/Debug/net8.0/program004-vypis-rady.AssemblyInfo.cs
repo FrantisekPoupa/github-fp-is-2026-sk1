@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program004-vypis-rady")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c58637b454f6a97ac6bfd3a301924fda8aba57b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50dd6451d2320f16a4c17c77f0418ac2bd1c8f8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("program004-vypis-rady")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program004-vypis-rady")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

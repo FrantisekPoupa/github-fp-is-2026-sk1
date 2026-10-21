@@ -10,14 +10,13 @@ while(again.ToLower() == "a")
     Console.WriteLine("********************************");
     Console.WriteLine();
 
-    // 1. Vstup počáteční hodnoty
     Console.Write("Zadejte první číslo řady (celé číslo): ");
-    int first;
+    int first; 
     while (!int.TryParse(Console.ReadLine(), out first))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte první číslo znovu: ");
     }
-
+    
     Console.Write("Zadejte poslední číslo řady (celé číslo): ");
     int last;
     while(!int.TryParse(Console.ReadLine(), out last))
@@ -31,7 +30,29 @@ while(again.ToLower() == "a")
     {
         Console.Write("Diference musí být kladné celé číslo větší než 0. Zadejte znovu: ");
     }
+    
+    Console.WriteLine();
+    Console.WriteLine("====================================");
+    Console.WriteLine($"První číslo: {first}; Poslední číslo: {last}; Diference: {step}");
+    Console.WriteLine("====================================");
+    Console.WriteLine();
 
+    Console.WriteLine("Výpis číselné řady:");
+    if (first <= last)
+    {
+        int current = first;
+        while (current <= last)
+        {
+            Console.WriteLine(current);
+            current += step;
+        }
+    }
+    else
+    {
+        Console.WriteLine("První číslo je větší než poslední. Tento program umí vypsat pouze vzestupnou řadu (od menšího k většímu).");
+    }
+
+    again = Console.ReadLine() ?? "";
     Console.WriteLine();
     Console.Write("Pro opakování programu stiskněte klávesu 'a': ");
     again = Console.ReadLine() ?? "";
