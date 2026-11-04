@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.sourcelink.json
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.exe
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.deps.json
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.dll
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.pdb
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.dll
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\refint\program002a-soucet-cifer.dll
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.pdb
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\ref\program002a-soucet-cifer.dll
+C:\Users\Admin\Documents\GitHub\github-fp-is-2026-sk1\IS_programy\program002a-soucet-cifer\obj\Debug\net8.0\program0.E3F95C00.Up2Date

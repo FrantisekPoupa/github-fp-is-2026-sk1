@@ -1,1 +1,46 @@
-﻿Console.WriteLine("Hello, World!");
+﻿string again = "a";
+
+while (again.ToLower() == "a")
+{
+    Console.Clear();
+    Console.WriteLine("Součet cifer");
+    Console.WriteLine("František Poupa");
+
+    Console.WriteLine("Zadejte číslo:");
+    int number;
+    while (!int.TryParse(Console.ReadLine(), out number))
+    {
+        Console.WriteLine("Nezadali jste celé číslo. Zadejte celé číslo znovu:");
+    }
+
+    int numberBackup = number;
+    int sum = 0;
+    int digit;
+
+    if (number < 0)
+    {
+        number = -number;
+    }
+
+    if (number == 0)
+    {
+        sum = 0;
+    }
+    else
+    {
+        Console.WriteLine("\nPrůběh rozkladu čísla na cifry:");
+
+        while (number > 0)
+        {
+            digit = number % 10;
+            sum += digit;
+            Console.WriteLine($"Cifra: {digit}, Součet: {sum}");
+            number /= 10;
+        }
+    }
+
+    Console.WriteLine($"\nSoučet cifer čísla {numberBackup} je: {sum}");
+
+    Console.WriteLine("\nChcete zadat další číslo? stiskněte klávesu 'a':");
+    again = Console.ReadLine();
+}
